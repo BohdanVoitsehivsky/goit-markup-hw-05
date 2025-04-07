@@ -641,7 +641,7 @@ margin-bottom: 4px;
   
 }
 .area-box {
-  margin-bottom: 24px;
+  margin-bottom: 16px;
 
   
 }
@@ -664,6 +664,7 @@ outline: transparent;
   justify-content: center;
   align-items: center;
   gap: 8px;
+  margin-bottom: 24px;
 
 }
 .check-input:checked+.modal-check-text>.check-border {
